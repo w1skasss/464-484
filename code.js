@@ -84,7 +84,7 @@
 //     }
 //     table.appendChild(row);
 // }
-////////////////////////////////////////////////////////////
+//
 
 // 466 3
 // let table = document.getElementById('table');
@@ -365,7 +365,7 @@
 //     });
 // });
 
-// 476 1 /////////////////////////
+// 476 1
 // document.getElementById('elem').addEventListener('click', function() {
 //     let input = document.createElement('input');
 //     input.setAttribute('id', 'input');
